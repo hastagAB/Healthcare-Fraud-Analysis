@@ -4,8 +4,7 @@
 <p align="center">✨ 🍰 ✨</p>
 
 ![Python](https://img.shields.io/badge/Python-v3%2B-blue)
-[![HitCount](http://hits.dwyl.com/hastagAB/Healthcare-Fraud-Analysis.svg)](http://hits.dwyl.com/hastagAB/Healthcare-Fraud-Analysis)
-![License](https://img.shields.io/github/license/hastagAB/Healthcare-Fraud-Analysis)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FhastagAB%2FHealthcare-Fraud-Analysis)](https://hits.seeyoufarm.com)![License](https://img.shields.io/github/license/hastagAB/Healthcare-Fraud-Analysis)
 ![Repo Size](https://img.shields.io/github/repo-size/hastagAB/Healthcare-Fraud-Analysis)
 
 
